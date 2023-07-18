@@ -6,8 +6,8 @@
   },
   "packages": {
     "quave:email-postmark": {
-      "apiToken": "YOUR_API_TOKEN",
-      "from": "YOUR_FROM_EMAIL@yourdomain.com"
+      "apiToken": "ar57Hqjy4WGHgkrt4uGnkaYA5HQhK7rM9X",
+      "from": "masangsok@gmail.com"
     }
   }
 }
